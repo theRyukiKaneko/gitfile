@@ -9,6 +9,8 @@ git log
 git checkout 
 
 
+image
+
 
 
 
