@@ -5,6 +5,15 @@ git commit -m’’
 
 git st
 git log
+
+git checkout 
+
+
+
+
+
+
+
 workin area
 
 
